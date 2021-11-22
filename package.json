@@ -7,11 +7,11 @@
     "@midwayjs/web": "^2.13.4",
     "egg": "^2.32.0",
     "egg-scripts": "^2.15.2",
-    "ssr-core-vue3": "^5.7.5",
-    "ssr-types": "^5.6.38",
-    "vant": "^3.2.8",
+    "ssr-core-vue3": "^5.7.6",
+    "ssr-types": "^5.6.39",
+    "vant": "^3.3.0",
     "swiper": "6.7.5",
-    "vue": "^3.2.21",
+    "vue": "^3.2.22",
     "vue-router": "^4.0.0",
     "vuex": "^4.0.0"
   },
@@ -19,9 +19,9 @@
     "@midwayjs/egg-ts-helper": "^1.0.5",
     "cross-env": "^7.0.3",
     "eslint-config-standard-vue-ts": "^1.0.5",
-    "ssr": "^5.7.5",
-    "ssr-plugin-midway": "^5.7.9",
-    "ssr-plugin-vue3": "^5.7.9",
+    "ssr": "^5.7.6",
+    "ssr-plugin-midway": "^5.7.10",
+    "ssr-plugin-vue3": "^5.7.11",
     "typescript": "^3.9.7"
   },
   "scripts": {
