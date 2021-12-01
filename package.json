@@ -9,7 +9,7 @@
     "egg-scripts": "^2.15.2",
     "ssr-core-vue3": "^5.7.6",
     "ssr-types": "^5.6.39",
-    "vant": "^3.3.0",
+    "vant": "^3.3.2",
     "swiper": "6.7.5",
     "vue": "^3.2.22",
     "vue-router": "^4.0.0",
